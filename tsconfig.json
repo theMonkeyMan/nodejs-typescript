@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir":"./dist",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "pretty":true
+    },
+    "files": [
+        "./app.ts",
+        "./typings/index.d.ts"
+    ],
+    "exclude":[
+        "node_modules"
+    ]
+}
